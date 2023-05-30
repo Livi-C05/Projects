@@ -1,0 +1,52 @@
+﻿<Window x:Class="ZgloszeniaAwarii.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Zgłoszenia awarii" Height="350" Width="825">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Imie uzytkownika:" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBox Name="tbImieUzytkownika" Margin="10" Width="200" VerticalAlignment="Center" />
+                <Label Content="Opis awarii:" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBox Name="tbOpisAwarii" Margin="10" Width="200" VerticalAlignment="Center" />
+                <Button Name="btnDodajZgloszenie" Margin="10" Width="100" Height="30"
+Content="Dodaj zgłoszenie" Click="btnDodajZgloszenie_Click" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Nazwisko uzytkownika:" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBox Name="tbNazwiskoUzytkownika" Margin="10" Width="200" VerticalAlignment="Center" />
+                <Label Content="Kategoria:" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBox Name="tbNazwaKategori" Margin="10" Width="200" VerticalAlignment="Center" />
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <Label Content="Imie przypisane:" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBox Name="tbImiePrzypisane" Margin="10" Width="200" VerticalAlignment="Center" />
+                <Label Content="Nazwisko przypisane:" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                <TextBox Name="tbNazwiskoPrzypisane" Margin="10" Width="200" VerticalAlignment="Center" />
+            </StackPanel>
+        </StackPanel>
+        <DataGrid Grid.Row="1" Name="dgZgloszenia" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" />
+                <DataGridTextColumn Header="Imie użytkownika" Binding="{Binding TworcaZgloszenia.Imie}" />
+                <DataGridTextColumn Header="Nazwisko użytkownika" Binding="{Binding TworcaZgloszenia.Nazwisko}" />
+                <DataGridTextColumn Header="Opis awarii"  Binding="{Binding Kategoria.Opis}" />
+                <DataGridTextColumn Header="Data dodania"  Binding="{Binding DataDodania}" />
+                <DataGridTextColumn Header="Przydzielone Imie" Binding="{Binding PrzypisaneDo.Imie}" />
+                <DataGridTextColumn Header="Przydzielone Nazwisko" Binding="{Binding PrzypisaneDo.Nazwisko}" />
+                <DataGridCheckBoxColumn Header="Wykonane" Binding="{Binding Wykonane}" />
+                <DataGridTemplateColumn Header="Usuń">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Usuń" Click="btnUsunZgloszenie_Click"  Tag="{Binding Id}" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,325 @@
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.AssemblyReference.cache
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.baml
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\App.g.cs
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari_MarkupCompile.cache
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.g.resources
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfoInputs.cache
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfo.cs
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CoreCompileInputs.cache
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.exe
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.deps.json
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.runtimeconfig.json
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\refint\ZgloszeniaAwari.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.genruntimeconfig.cache
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ref\ZgloszeniaAwari.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CopyComplete
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.dll.config
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Humanizer.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos\C#\OLX\CicheckaLiwia\ZgloszeniaAwari\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.exe
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.dll.config
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.deps.json
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.runtimeconfig.json
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.AssemblyReference.cache
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari_MarkupCompile.cache
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.g.resources
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfoInputs.cache
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfo.cs
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CoreCompileInputs.cache
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CopyComplete
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\refint\ZgloszeniaAwari.dll
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.genruntimeconfig.cache
+C:\Users\tkrol\OneDrive\Pulpit\ZgloszeniaAwari - Copy\ZgloszeniaAwari\obj\Debug\net6.0-windows\ref\ZgloszeniaAwari.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.exe
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.dll.config
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.deps.json
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.runtimeconfig.json
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari_MarkupCompile.cache
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.g.resources
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\refint\ZgloszeniaAwari.dll
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ref\ZgloszeniaAwari.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.exe
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.deps.json
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.runtimeconfig.json
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.AssemblyReference.cache
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari_MarkupCompile.cache
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.g.resources
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfoInputs.cache
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.AssemblyInfo.cs
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CoreCompileInputs.cache
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.csproj.CopyComplete
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\refint\ZgloszeniaAwari.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.pdb
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ZgloszeniaAwari.genruntimeconfig.cache
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\ref\ZgloszeniaAwari.dll
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\AddIncidentWindow.baml
+C:\Users\barte\OneDrive\Pulpit\aa\ZgloszeniaAwarii\ZgloszeniaAwari\obj\Debug\net6.0-windows\AddIncidentWindow.g.cs
