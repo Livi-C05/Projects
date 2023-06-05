@@ -9,6 +9,8 @@ using System.Windows.Input;
 
 namespace Kalkulator
 {
+
+    // Klasa MainWindow, dziedziczy po klasie Window i zawiera kilka metod do obsługi kliknięcia przycisków i naciśnięcia klawiszy.
     public partial class MainWindow : Window
     {
         double equal; // Zmienna przechowująca aktualny wynik
@@ -25,6 +27,7 @@ namespace Kalkulator
             operands = new List<string> { "+", "-", "*", "/", "=", "sin", "cos", "tan", "sqrt", "log", "^", "hyp", "sec", "csc", "cot",  "rand", "dms", "deg" };
 
         }
+        // Metoda btnSpecial_Click obsługuje kliknięcia na specjalnych przyciskach takich jak Pi, E i kwadrat.
         private void btnSpecial_Click(object sender, RoutedEventArgs e)
         {
             Button button = (Button)sender;
@@ -41,7 +44,7 @@ namespace Kalkulator
                     break;
 
                 case "SecondPowerButton":
-                    // This assumes the previous number entered will be raised to the power of 2
+                    // Zakłada się, że poprzednio wprowadzona liczba zostanie podniesiona do potęgi 2
                     double numToSquare;
                     if (double.TryParse(ekran.Text, out numToSquare))
                     {
@@ -62,6 +65,7 @@ namespace Kalkulator
             }
         }
 
+        // Metoda BracketButton_Click dodaje nawiasy do ekranu kalkulatora po kliknięciu odpowiedniego przycisku
         private void BracketButton_Click(object sender, RoutedEventArgs e)
         {
             // Sprawdzamy, który przycisk został naciśnięty
@@ -73,15 +77,19 @@ namespace Kalkulator
 
 
 
+        // Metoda btnClear_Click czyści ekran kalkulatora i resetuje zmienne przechowujące bieżący wynik i ostatnio
+        // wciśnięty operator.
         private void btnClear_Click(object sender, RoutedEventArgs e)
         {
             ekran.Text = ""; // Czyści zawartość TextBox o nazwie "ekran", czyli ekran kalkulatora
             equal = 0.0; // Resetuje zmienną "equal" przechowującą aktualny wynik na wartość 0.0
-            operandPressed = false; // Ustawia flagę "operandPressed" na false, co oznacza, że żaden operator nie został jeszcze wciśnięty
+            operandPressed = false; // Ustawia flagę "operandPressed" na false, co oznacza, że żaden operator nie został
+                                    // jeszcze wciśnięty
             action = ""; // Resetuje zmienną "action", która przechowuje ostatnio wciśnięty operator na pustą wartość
         }
 
-        // dodaję nową metodę do obsługi wciśnięcia przycisku "C"
+
+        // dodaję nową metodę do obsługi wciśnięcia przycisku "C" oraz po jego naciśnięciu czyści ekran kalkulatora
         private void btnClear_KeyUp(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.C)
@@ -90,6 +98,11 @@ namespace Kalkulator
             }
         }
 
+
+
+        // Metoda btnnumber_Click obsługuje kliknięcia na przyciskach numerycznych i operatorach matematycznych.
+        // Jeśli przycisk operatora został wciśnięty, metoda ta wykonuje odpowiednią operacje matematyczną na bieżącym wyniku
+        // i wyświetla go na ekranie kalkulatora. W przeciwnym razie metoda ta dodaje cyfrę do ekranu kalkulatora.
         private void btnnumber_Click(object sender, RoutedEventArgs e)
         {
             var data = ((Button)sender).Content.ToString();
@@ -143,6 +156,7 @@ namespace Kalkulator
         }
 
 
+        // Metoda OK_Button_KeyUp zmienia treść przycisku na WITAJ po naciśnięciu klawisza C lub na ŻEGNAJ po naciśnięciu klawisza D.
         private void OK_Button_KeyUp(object sender, KeyEventArgs e)
         {
             if (e.Key == Key.C)
@@ -155,6 +169,12 @@ namespace Kalkulator
             }
         }
 
+
+
+        // Metoda etykieta1_KeyDown obsługuje zdarzenie naciśnięcia klawisza na kontrolce etykieta1. Metoda ta sprawdza,
+        // jaki klawisz został‚ naciśnięty i wykonuje odpowiednią akcję. Jeśli naciśnięty klawisz to cyfra, metoda ta dodaje
+        // ją do ekranu kalkulatora. Jeśli naciśnięty klawisz to operator matematyczny lub klawisz Enter/Return, metoda ta
+        // wywołuje metodę btnnumber_Click z odpowiednim argumentem, aby wykonać odpowiednią operację matematyczną.
         private void etykieta1_KeyDown(object sender, KeyEventArgs e)
         {
             string key = e.Key.ToString();
